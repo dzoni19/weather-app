@@ -1,3 +1,4 @@
+<img width="947" alt="weather" src="https://user-images.githubusercontent.com/63516391/132668529-bbab50b7-ac4a-4e7d-ada2-ca90e1085df2.png">
 # weather-app
 #clock-weather-app
 #navigation
